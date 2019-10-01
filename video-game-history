@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> History of Video Games </title>
+  </head>
+  <body>
+    <h1> History of Video Games </h1>
+      <p> Video games are digital games that can be played on a computer device (e.g., tablets, smartphones, laptops, consoles, etc.).<br>
+       <i> Originally </i> designed simply for entertainment, video games have grown into their own industry and field of learning,<br>
+       generating <strong> billions of dollars </strong> each year. </p>
+      <br>
+      <p> <blockquote>"All your base are belong to us"</blockquote> </p>
+      <br>
+      <h2> The Beginning (1950s) </h2>
+        <p> The first computerized video game was called Bertie the Brain in 1950, which was played similarly to tic tac toe.<br>
+            In 1952, the first complex video game was made, which was mathematician Alan Turing’s electronic chess game.<br>
+            Finally in 1958, the first video game created for entertainment and utilizing game physics, the introduction <br>
+            of the laws of physics into a simulation, was MIT’s space shooter game Spacewar! </p>
+        <img src="http://media.factmyth.com/2016/02/danny-kaye-plays-the-first-video-game.jpg" alt="Danny Kaye plays the first video game."/>
+      <br>
+      <h2> Video Games at Home (1960-1983) </h2>
+        <p> In 1967, a company called Sanders Associates, Inc. developed ‘The Brown Box,’ a prototype multiplayer video game console <br>
+            that could be played on the television. The console was copyrighted by Magnavox, and sold as a multi program system called the Odyssey.<br>
+            Incidentally, the smash hit arcade game Space Invaders was released in 1978. Eventually, the game would rack in 13 billion dollars in total revenue,<br>
+            making it the highest grossing video game of all time. In 1981, the massively successful video game company Nintendo released Donkey Kong,<br>
+            a game where many beloved characters such as Mario were introduced. Although the creation of the game Donkey Kong isn’t that significant,<br>
+            the introduction to the video game empire that is the Mario franchise makes the release of the game historical.</p>
+      <br>
+      <h2> North American Video Game Crash (1983) </h2>
+        <p> Video game consoles that were available during the video game crash of 1983 included  Odyssey, Intellivision, ColecoVision, Atari 5200, and Vectrex.</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QmNqsui0O0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br>
+      <h2> The Rise of Games in the East (1985-1995) </h2>
+        <p> While recovering from the video game crash, the 8-bit third generation of video games kicked off with Nintendo's Family Computer <br>
+            (also known as Famicom) and Sega’s SG-1000. This was significant because it allowed for video games to remember a person’s progress.<br>
+            In 1989, Nintendo made history by releasing the legendary Game Boy, which was a handheld 8-bit gaming console.<br>
+            The Game Boy was so successful that it has sold 118.69 million copies. In 1994, the Entertainment Software Rating Board was created <br>
+            after a Senate investigation of video games that contained crude and sexual content without proper warning. </p>
+      <br>
+      <h2> Tech Company Takeover (1995-2010) </h2>
+        <p> In 1995, Sony releases the PlayStation to the United States market, where it sold for $299. The first PlayStation has sold 120 million units.<br>
+            This was the first console and hand-held game devices, and was massively successful. In 1999, a man named Billy Mitchell from Holyoke, Massachusetts <br>
+            made video game history when he got a super score of 3,333,360 in the game Pac-Man, which is the highest score a player can get.<br>
+            He was the first person to ever achieve this. Finally, in 2006, Ninterndo released the beloved video game system Wii, <br>
+            which is a gaming system that lets gamers use the controller in revolutionary ways, such as swinging it like a tennis racket.<br>
+            This was the first console to ever do this, and it made the Wii revolutionary. Nintendo’s Wii line continues to break records;<br>
+            the original Wii was the fastest selling video game in history, which was later broken by Wii’s Nintendo Switch.</p>
+      <br>
+      <h2> Today in Gaming (2010-Now) </h2>
+        <p> Today we are in the fifth decade of video games. With continuous releasing of new technology, video games are being played on phones,<br>
+            computers, arcades, and gaming consoles. In 2010, the OnLive gaming console was the first to exclusively feature cloud-based gaming,<br>
+            which is when a game stays on a company server rather than on the gamer's computer or device. This has become standard in today's gaming.<br>
+            After the release of the film Avatar, 3-D graphics began popping up in games everywhere. The first to do this was Nintendo with the 3-DS.<br>
+            Virtual reality gaming has also become huge in the gaming market. Such companies that first released these games were Oculus with Rift,<br>
+            HTC with Rive, and Sony with PlayStation VR. The most popular video games of the 2010s include Angry Birds, Minecraft, the Sims,<br>
+            and last but not least, Fortnite. Fortnite, released in 2017, has become a pop culture phenomenon, inspiring dances, shirts, sweatshirts,<br>
+            language patterns, and other sorts of merchandise. By the end of its first month, over 500,000 digital copies were sold. </p>
+      <br>
+      <h2> Useful Websites </h2>
+        <ul>
+          <li> <a href="http://factmyth.com/factoids/the-first-video-games-were-from-the-50s/" target="/blank"> Factmyth.com </a> </li>
+          <li> <a href="https://www.history.com/topics/inventions/history-of-video-games" target="/blank"> History.com </a> </li>
+          <li> <a href="https://www.infoplease.com/spot/timeline-video-games-1" target="/blank"> Infoplease.com </a> </li>
+          <li> <a href="https://www.factinate.com/things/24-fearless-facts-fortnite/" target="/blank"> Factinate.com </a> </li>
+        </ul>
+  </body>
+</html>
